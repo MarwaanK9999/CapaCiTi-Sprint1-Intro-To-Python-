@@ -1,0 +1,53 @@
+Transaction Type: deposit
+Transaction Number: 403079
+Account Number: 1234567891011
+Account Owner: Mar'waan Koma
+Date of Transaction: 2021-09-10 13:56:22.286728
+Old Amount: R3000.00
+Deposited Amount: R3000.00
+New Amount: R6000.00
+
+Transaction Type: deposit
+Transaction Number: 902585
+Account Number: 1234567891011
+Account Owner: Mar'waan Koma
+Date of Transaction: 2021-09-10 13:57:58.583357
+Old Amount: R6000.00
+Deposited Amount: R3000.00
+New Amount: R9000.00
+
+Transaction Type: deposit
+Transaction Number: 402696
+Account Number: 1234567891011
+Account Owner: Mar'waan Koma
+Date of Transaction: 2021-09-10 14:16:37.384225
+Old Amount: R9000.00
+Deposited Amount: R4000.00
+New Amount: R13000.00
+
+Transaction Type: deposit
+Transaction Number: 653770
+Account Number: 1234567891011
+Account Owner: Mar'waan Koma
+Date of Transaction: 2021-09-13 09:57:30.112623
+Old Amount: R13000.00
+Deposited Amount: R1000.00
+New Amount: R14000.00
+
+Transaction Type: withdrawal
+Transaction Number: 92614
+Account Number: 1234567891011
+Account Owner: Mar'waan Koma
+Date of Transaction: 2021-09-13 13:24:07.491522
+Old Amount: R14000.00
+Deposited Amount: R1000.00
+New Amount: R13000.00
+
+Transaction Type: withdrawal
+Transaction Number: 621235
+Account Number: 1234567891011
+Account Owner: Mar'waan Koma
+Date of Transaction: 2021-09-13 13:27:18.402611
+Old Amount: R13000.00
+Deposited Amount: R1000.00
+New Amount: R12000.00

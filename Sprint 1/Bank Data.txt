@@ -1,0 +1,6 @@
+Account Number:
+1234567891011
+Account owner Name:
+Mar'waan Koma
+Available Balance:
+R12000.00
